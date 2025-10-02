@@ -14,3 +14,10 @@ html{
     list-style-type: none;
     
 }
+.local-nav{
+    background-color: #00fe3f;
+    border-color: black;
+    border-width: 15px;
+    border-style: groove;
+    list-style-type: none;
+}
